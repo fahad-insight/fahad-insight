@@ -4,9 +4,9 @@ I’m a Data Analyst passionate about turning raw data into clear, actionable in
 Currently learning **Python, R, SQL, Power BI, and Excel** to strengthen my analytics toolkit.  
 
 ## 🔹 Featured Projects  
-- [Sales KPI Dashboard](....)  
-- [Customer Feedback Analysis](...)  
-- [Inventory Management Report]...)  
+- [Sales KPI Dashboard] 
+- [Customer Feedback Analysis] 
+- [Inventory Management Report] 
 
 ## 🔹 Skills  
 - **Data Tools:** Excel (PivotTables, VLOOKUP, Data Cleaning), Power BI (Dashboards, KPIs), SQL (Queries, Joins, Aggregations)  
