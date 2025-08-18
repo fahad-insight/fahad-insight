@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Fahad 👋  
 
-<!--
-**fahad-insight/fahad-insight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst passionate about turning raw data into clear, actionable insights.  
+Currently learning **Python, R, SQL, Power BI, and Excel** to strengthen my analytics toolkit.  
 
-Here are some ideas to get you started:
+## 🔹 Featured Projects  
+- [Sales KPI Dashboard](....)  
+- [Customer Feedback Analysis](...)  
+- [Inventory Management Report]...)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills  
+- **Data Tools:** Excel (PivotTables, VLOOKUP, Data Cleaning), Power BI (Dashboards, KPIs), SQL (Queries, Joins, Aggregations)  
+- **Techniques:** Data Cleaning, Visualization, KPI Analysis, Trend Identification  
+- **Currently Learning:** Python (Pandas, Matplotlib), R for Data Analysis  
+
+📫 Reach me: [LinkedIn](https://linkedin.com/in/fahad-rehman) | [Email](mailto:fahad.rehman.connect@gmail.com)  
