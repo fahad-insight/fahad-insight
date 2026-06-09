@@ -1,7 +1,7 @@
 # Hi, I'm Fahad 👋  
 
-I’m a Data Analyst passionate about turning raw data into clear, actionable insights.  
-Currently learning **Python, R, SQL, Power BI, and Excel** to strengthen my analytics toolkit.  
+I’m a Data Analyst turning raw data into clear, actionable insights.  
+SKilled in **Python-(libraries) , R, SQL-(databases), Power BI, and Excel** strengthening my analytics toolkit & optimizing Pipelines 
 
 ## 🔹 Featured Projects  
 - [Scraping Data Using API ]
